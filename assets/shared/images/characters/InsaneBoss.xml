@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="InsaneBoss.png">
+<SubTexture name="InsaneBoss idle0000" x="0" y="0" width="513" height="671" frameX="0" frameY="0" frameWidth="513" frameHeight="671" />
+<SubTexture name="InsaneBoss idle0001" x="513" y="0" width="513" height="671" frameX="0" frameY="0" frameWidth="513" frameHeight="671" />
+<SubTexture name="InsaneBoss idle0002" x="1026" y="0" width="513" height="671" frameX="0" frameY="0" frameWidth="513" frameHeight="671" />
+<SubTexture name="InsaneBoss idle0003" x="0" y="671" width="513" height="671" frameX="0" frameY="0" frameWidth="513" frameHeight="671" />
+<SubTexture name="InsaneBoss idle0004" x="513" y="671" width="513" height="671" frameX="0" frameY="0" frameWidth="513" frameHeight="671" />
+<SubTexture name="InsaneBoss left0000" x="1026" y="671" width="513" height="671" frameX="0" frameY="0" frameWidth="513" frameHeight="671" />
+<SubTexture name="InsaneBoss left0001" x="0" y="1342" width="513" height="671" frameX="0" frameY="0" frameWidth="513" frameHeight="671" />
+<SubTexture name="InsaneBoss down0000" x="513" y="1342" width="513" height="671" frameX="0" frameY="0" frameWidth="513" frameHeight="671" />
+<SubTexture name="InsaneBoss down0001" x="1026" y="1342" width="513" height="671" frameX="0" frameY="0" frameWidth="513" frameHeight="671" />
+<SubTexture name="InsaneBoss right0000" x="0" y="2013" width="513" height="671" frameX="0" frameY="0" frameWidth="513" frameHeight="671" />
+<SubTexture name="InsaneBoss right0001" x="513" y="2013" width="513" height="671" frameX="0" frameY="0" frameWidth="513" frameHeight="671" />
+</TextureAtlas>
